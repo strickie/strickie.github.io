@@ -1,26 +1,26 @@
 {
   "files": {
-    "main.css": "/website/static/css/main.13b298a8.chunk.css",
-    "main.js": "/website/static/js/main.692e332b.chunk.js",
-    "main.js.map": "/website/static/js/main.692e332b.chunk.js.map",
-    "runtime-main.js": "/website/static/js/runtime-main.445e76cb.js",
-    "runtime-main.js.map": "/website/static/js/runtime-main.445e76cb.js.map",
-    "static/css/2.de7fce65.chunk.css": "/website/static/css/2.de7fce65.chunk.css",
-    "static/js/2.0b0f2f37.chunk.js": "/website/static/js/2.0b0f2f37.chunk.js",
-    "static/js/2.0b0f2f37.chunk.js.map": "/website/static/js/2.0b0f2f37.chunk.js.map",
-    "index.html": "/website/index.html",
-    "precache-manifest.7860231146fc58465ffde51efb6d5637.js": "/website/precache-manifest.7860231146fc58465ffde51efb6d5637.js",
-    "service-worker.js": "/website/service-worker.js",
-    "static/css/2.de7fce65.chunk.css.map": "/website/static/css/2.de7fce65.chunk.css.map",
-    "static/css/main.13b298a8.chunk.css.map": "/website/static/css/main.13b298a8.chunk.css.map",
-    "static/media/mdb.css": "/website/static/media/arrow_right.8ef6a08c.svg",
-    "static/media/all.min.css": "/website/static/media/fa-solid-900.c2801fb4.svg"
+    "main.css": "/strickie.github.io/static/css/main.13b298a8.chunk.css",
+    "main.js": "/strickie.github.io/static/js/main.257f1bbb.chunk.js",
+    "main.js.map": "/strickie.github.io/static/js/main.257f1bbb.chunk.js.map",
+    "runtime-main.js": "/strickie.github.io/static/js/runtime-main.b3f43c38.js",
+    "runtime-main.js.map": "/strickie.github.io/static/js/runtime-main.b3f43c38.js.map",
+    "static/css/2.2f00bc53.chunk.css": "/strickie.github.io/static/css/2.2f00bc53.chunk.css",
+    "static/js/2.0b0f2f37.chunk.js": "/strickie.github.io/static/js/2.0b0f2f37.chunk.js",
+    "static/js/2.0b0f2f37.chunk.js.map": "/strickie.github.io/static/js/2.0b0f2f37.chunk.js.map",
+    "index.html": "/strickie.github.io/index.html",
+    "precache-manifest.9a597239fdff869113297570a356b3c5.js": "/strickie.github.io/precache-manifest.9a597239fdff869113297570a356b3c5.js",
+    "service-worker.js": "/strickie.github.io/service-worker.js",
+    "static/css/2.2f00bc53.chunk.css.map": "/strickie.github.io/static/css/2.2f00bc53.chunk.css.map",
+    "static/css/main.13b298a8.chunk.css.map": "/strickie.github.io/static/css/main.13b298a8.chunk.css.map",
+    "static/media/mdb.css": "/strickie.github.io/static/media/arrow_right.8ef6a08c.svg",
+    "static/media/all.min.css": "/strickie.github.io/static/media/fa-solid-900.c2801fb4.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.445e76cb.js",
-    "static/css/2.de7fce65.chunk.css",
+    "static/js/runtime-main.b3f43c38.js",
+    "static/css/2.2f00bc53.chunk.css",
     "static/js/2.0b0f2f37.chunk.js",
     "static/css/main.13b298a8.chunk.css",
-    "static/js/main.692e332b.chunk.js"
+    "static/js/main.257f1bbb.chunk.js"
   ]
 }
