@@ -1,2 +1,2 @@
-# username.github.io
+# strickie.github.io
 Website
